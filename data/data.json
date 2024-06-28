@@ -1,0 +1,109 @@
+{
+    "home": {
+        "name": "Your Name",
+        "surname": "Your Surname",
+        "title": "Aspiring Web Developer",
+        "image": "URL_to_your_image"
+    },
+    "about": {
+        "heading": "About Me",
+        "description": "As an aspiring web developer, I'm on a mission to learn, grow, and make my mark in the ever-evolving world of technology. While I may be at the beginning of my journey, I'm committed to soaking up knowledge and mastering everything from HTML and CSS to JavaScript and beyond. I'm excited to embark on this journey of growth and discovery, and I'm ready to make my mark in the world of web development."
+    },
+    "resume": {
+        "heading": "Resume",
+        "timeline": [
+            {
+                "title": "High School",
+                "description": "Matriculated from Spine Road High School.",
+                "duration": "2019-2023"
+            },
+            {
+                "title": "Life Choices Academy",
+                "description": "Started at Life Choices, just after finishing High School.",
+                "duration": "2024 - present day"
+            }
+        ]
+    },
+    "skills": {
+        "heading": "Skills",
+        "items": [
+            {
+                "name": "HTML",
+                "image": "URL_to_HTML_image"
+            },
+            {
+                "name": "CSS",
+                "image": "URL_to_CSS_image"
+            },
+            {
+                "name": "Bootstrap",
+                "image": "URL_to_Bootstrap_image"
+            },
+            {
+                "name": "JavaScript",
+                "image": "URL_to_JavaScript_image"
+            }
+        ]
+    },
+    "testimonials": {
+        "heading": "Testimonials",
+        "items": [
+            {
+                "image": "URL_to_Anushqa_Kandan_image",
+                "name": "Anushqa Kandan",
+                "testimonial": "Masoodah is an extremely dedicated worker who always strives to do the best she can. She remains willing to attain new knowledge and works very well in a team. Masoodah has the ability to create a comfortable atmosphere for those around her."
+            },
+            {
+                "image": "URL_to_Asheeka_Samuels_image",
+                "name": "Asheeka Samuels",
+                "testimonial": "One of Masoodah's strong suits is communication and teamwork. I've had the pleasure of working with Masoodah and what I can say from our interactions is that she is a dedicated and hardworking individual."
+            },
+            {
+                "image": "URL_to_Candice_Keet_image",
+                "name": "Candice Keet",
+                "testimonial": "In the short amount of time that I got to know Masoodah, I've experienced her kindness, dedication to her coding and how hard she works to perfect what she does. Whenever I would need help and I asked her for help, she would never turn me down and always try to help me to the best of her abilities. I'm always motivated by her dedication towards coding. Not only can she work well in a team but she's a kind, hardworking, and problem-solver and if that's what you're looking for, I most definitely recommend Masoodah."
+            },
+            {
+                "image": "URL_to_Caitlin_Dalwai_image",
+                "name": "Caitlin Dalwai",
+                "testimonial": "Having worked closely with Masoodah at Life Choices Academy, I wholeheartedly recommend her for any role within your esteemed tech company. Masoodah possesses an exceptional blend of technical expertise, innovative thinking, and a strong work ethic that consistently delivers outstanding results. Her ability to grasp complex technical concepts swiftly and apply them effectively in practical scenarios is truly impressive."
+            },
+            {
+                "image": "URL_to_Nazneen_Abrahams_image",
+                "name": "Nazneen Abrahams",
+                "testimonial": "Masoodah is a hardworking individual, who exceeds all expectations. Working with Masoodah is an absolute pleasure, she brings a positive atmosphere and motivates those around her."
+            }
+        ]
+    },
+    "projects": {
+        "heading": "Projects",
+        "items": [
+            {
+                "name": "E-commerce",
+                "image": "URL_to_e-commerce_image",
+                "description": "An e-commerce platform for buying and selling products."
+            },
+            {
+                "name": "BMI Calculator",
+                "image": "URL_to_BMI_calculator_image",
+                "description": "A BMI calculator to measure body mass index."
+            },
+            {
+                "name": "Temperature Converter",
+                "image": "URL_to_temperature_converter_image",
+                "description": "A temperature converter to convert between Celsius and Fahrenheit."
+            },
+            {
+                "name": "Hex to RGB",
+                "image": "URL_to_hex_to_rgb_image",
+                "description": "A tool to convert hex color codes to RGB values."
+            },
+            {
+                "name": "RGB to Hex",
+                "image": "URL_to_rgb_to_hex_image",
+                "description": "A tool to convert RGB values to hex color codes."
+            }
+        ]
+    },
+    
+}

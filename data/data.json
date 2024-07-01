@@ -33,15 +33,19 @@
             },
             {
                 "name": "CSS",
-                "image": "URL_to_CSS_image"
+                "image": "https://i.postimg.cc/8PYKfTCc/icons8-css-240.png"
             },
             {
                 "name": "Bootstrap",
-                "image": "URL_to_Bootstrap_image"
+                "image": "https://i.postimg.cc/4xL8ttQz/icons8-bootstrap-240-2.png"
             },
             {
                 "name": "JavaScript",
-                "image": "URL_to_JavaScript_image"
+                "image": "https://i.postimg.cc/3NNNks8j/icons8-javascript-240.png"
+            },
+            {
+                "name": "Vue.js",
+                "image": "https://i.postimg.cc/5tWm83FQ/vue-js-logo-big.png"
             }
         ]
     },

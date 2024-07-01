@@ -81,33 +81,43 @@
     },
     "projects": {
         "heading": "Projects",
-        "items": [
-            {
-                "name": "E-commerce",
-                "image": "https://i.postimg.cc/zBQLN4Dz/Screenshot-2024-07-01-082735.png",
-                "description": "An e-commerce platform for buying and selling products."
-            },
-            {
-                "name": "BMI Calculator",
-                "image": "https://i.postimg.cc/t7QYZPV8/bmi.png",
-                "description": "A BMI calculator to measure body mass index."
-            },
-            {
-                "name": "Temperature Converter",
-                "image": "https://i.postimg.cc/RCn1FLks/temp.png",
-                "description": "A temperature converter to convert between Celsius and Fahrenheit."
-            },
-            {
-                "name": "Hex to RGB",
-                "image": "https://i.postimg.cc/0ytKZ6gK/hex.png",
-                "description": "A tool to convert hex color codes to RGB values."
-            },
-            {
-                "name": "RGB to Hex",
-                "image": "https://i.postimg.cc/Px1xGJ74/Screenshot-2024-07-01-083354.png",
-                "description": "A tool to convert RGB values to hex color codes."
-            }
-        ]
+    "items": [
+      {
+        "name": "E-commerce",
+        "image": "https://i.postimg.cc/zBQLN4Dz/Screenshot-2024-07-01-082735.png",
+        "description": "An e-commerce platform built with JavaScript, CSS, and Bootstrap for buying products.",
+        "github": "https://github.com/MasoodahGeorge/ecomEOMP.git",
+        "view": "https://ecom-eomp.vercel.app/"
+      },
+      {
+        "name": "BMI Calculator",
+        "image": "https://i.postimg.cc/t7QYZPV8/bmi.png",
+        "description": "A BMI calculator built with Javascript and CSS to measure body mass index.",
+        "github": "https://github.com/MasoodahGeorge/bmi-calc.git",
+        "view": "https://bmi-calc-kohl.vercel.app/"
+      },
+      {
+        "name": "Temperature Converter",
+        "image": "https://i.postimg.cc/RCn1FLks/temp.png",
+        "description": "A temperature converter built with Javascript and CSS to convert between Celsius and Fahrenheit.",
+        "github": "https://github.com/MasoodahGeorge/temperature-converter.git",
+        "view": "https://temperature-converter-iota-eight.vercel.app/"
+      },
+      {
+        "name": "Hex to RGB",
+        "image": "https://i.postimg.cc/0ytKZ6gK/hex.png",
+        "description": "A tool built with Javascript and CSS to convert hex color codes to RGB values.",
+        "github": "https://github.com/MasoodahGeorge/hex-To-rgb.git",
+        "view": "https://hex-to-rgb-omega.vercel.app/"
+      },
+      {
+        "name": "RGB to Hex",
+        "image": "https://i.postimg.cc/gkL64czg/rgb.png",
+        "description": "A tool built with Javascript and CSS to convert RGB values to hex color codes.",
+        "github": "https://github.com/MasoodahGeorge/RGBtoHex.git",
+        "view": "https://rg-bto-hex-eight.vercel.app/"
+      }
+    ]
     },
         "contact": {
           "heading": "Contact",

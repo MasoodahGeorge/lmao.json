@@ -84,27 +84,27 @@
         "items": [
             {
                 "name": "E-commerce",
-                "image": "URL_to_e-commerce_image",
+                "image": "https://i.postimg.cc/zBQLN4Dz/Screenshot-2024-07-01-082735.png",
                 "description": "An e-commerce platform for buying and selling products."
             },
             {
                 "name": "BMI Calculator",
-                "image": "URL_to_BMI_calculator_image",
+                "image": "https://i.postimg.cc/t7QYZPV8/bmi.png",
                 "description": "A BMI calculator to measure body mass index."
             },
             {
                 "name": "Temperature Converter",
-                "image": "URL_to_temperature_converter_image",
+                "image": "https://i.postimg.cc/RCn1FLks/temp.png",
                 "description": "A temperature converter to convert between Celsius and Fahrenheit."
             },
             {
                 "name": "Hex to RGB",
-                "image": "URL_to_hex_to_rgb_image",
+                "image": "https://i.postimg.cc/0ytKZ6gK/hex.png",
                 "description": "A tool to convert hex color codes to RGB values."
             },
             {
                 "name": "RGB to Hex",
-                "image": "URL_to_rgb_to_hex_image",
+                "image": "https://i.postimg.cc/Px1xGJ74/Screenshot-2024-07-01-083354.png",
                 "description": "A tool to convert RGB values to hex color codes."
             }
         ]

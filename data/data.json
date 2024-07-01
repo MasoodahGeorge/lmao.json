@@ -124,20 +124,20 @@
     "paragraph": "Interested? Send me a message!",
     "icons": [
       {
-        "icon": "URL_to_icon1",
-        "link": "URL_to_website1"
+        "icon": "https://i.postimg.cc/X7qC7hH0/email.jpg",
+        "link": "mailto:oodasbusiness@gmail.com"
       },
       {
-        "icon": "URL_to_icon2",
-        "link": "URL_to_website2"
+        "icon": "https://i.postimg.cc/HLnZ0Hts/whatsapp-icon-free-png.png",
+        "link": "https://web.whatsapp.com/send?phone=27621636155"
       },
       {
-        "icon": "URL_to_icon3",
-        "link": "URL_to_website3"
+        "icon": "https://i.postimg.cc/NF6pG0Qb/github.jpg",
+        "link": "https://github.com/MasoodahGeorge"
       },
       {
-        "icon": "URL_to_icon4",
-        "link": "URL_to_website4"
+        "icon": "https://i.postimg.cc/FRcxGKkm/linkedin-logo-linkedin-icon-transparent-free-png-1.png",
+        "link": "https://za.linkedin.com/in/masoodah-george-79515b2b6"
       }
     ],
     "form": {

@@ -121,44 +121,48 @@
     },
         "contact": {
           "heading": "Contact",
-          "paragraph": "Interested? Send me a message!",
-          "icons": [
-            {
-              "icon": "URL_to_icon1",
-              "link": "URL_to_website1"
-            },
-            {
-              "icon": "URL_to_icon2",
-              "link": "URL_to_website2"
-            },
-            {
-              "icon": "URL_to_icon3",
-              "link": "URL_to_website3"
-            },
-            {
-              "icon": "URL_to_icon4",
-              "link": "URL_to_website4"
-            }
-          ],
-          "form": {
-            "fields": [
-              {
-                "label": "Name",
-                "type": "text",
-                "placeholder": "Enter your name"
-              },
-              {
-                "label": "Email",
-                "type": "email",
-                "placeholder": "Enter your email"
-              },
-              {
-                "label": "Message",
-                "type": "textarea",
-                "placeholder": "Enter your message"
-              }
-            ],
-            "submitButtonText": "Send"
-          }
+    "paragraph": "Interested? Send me a message!",
+    "icons": [
+      {
+        "icon": "URL_to_icon1",
+        "link": "URL_to_website1"
+      },
+      {
+        "icon": "URL_to_icon2",
+        "link": "URL_to_website2"
+      },
+      {
+        "icon": "URL_to_icon3",
+        "link": "URL_to_website3"
+      },
+      {
+        "icon": "URL_to_icon4",
+        "link": "URL_to_website4"
+      }
+    ],
+    "form": {
+      "action": "https://formspree.io/f/mpzvvdbv",
+      "fields": [
+        {
+          "label": "Name",
+          "type": "text",
+          "placeholder": "Enter your name",
+          "name": "name"
+        },
+        {
+          "label": "Email",
+          "type": "email",
+          "placeholder": "Enter your email",
+          "name": "email"
+        },
+        {
+          "label": "Message",
+          "type": "textarea",
+          "placeholder": "Enter your message",
+          "name": "message"
         }
+      ],
+      "submitButtonText": "Send"
+    }
+  }
 }

@@ -30,23 +30,23 @@
         "items": [
             {
                 "name": "HTML",
-                "image": "https://i.postimg.cc/Y0bcSZsP/icons8-html-240.png"
+                "image": "https://github.com/MasoodahGeorge/p3img/blob/main/IMG-20240704-WA0010.jpg?raw=true"
             },
             {
                 "name": "CSS",
-                "image": "https://i.postimg.cc/8PYKfTCc/icons8-css-240.png"
+                "image": "https://github.com/MasoodahGeorge/p3img/blob/main/IMG-20240704-WA0012.jpg?raw=true"
             },
             {
                 "name": "Bootstrap",
-                "image": "https://i.postimg.cc/4xL8ttQz/icons8-bootstrap-240-2.png"
+                "image": "https://github.com/MasoodahGeorge/p3img/blob/main/icons8-bootstrap-240-2.png?raw=true"
             },
             {
                 "name": "JavaScript",
-                "image": "https://i.postimg.cc/3NNNks8j/icons8-javascript-240.png"
+                "image": "https://github.com/MasoodahGeorge/p3img/blob/main/IMG-20240704-WA0000.jpg?raw=true"
             },
             {
                 "name": "Vue.js",
-                "image": "https://i.postimg.cc/5tWm83FQ/vue-js-logo-big.png"
+                "image": "https://github.com/MasoodahGeorge/p3img/blob/main/InShot_20240704_061649684-removebg-preview.png?raw=true"
             }
         ]
     },
@@ -54,27 +54,27 @@
         "heading": "Testimonials",
         "items": [
             {
-                "image": "https://i.postimg.cc/yYf8QyH6/Anushqa.jpg",
+                "image": "https://github.com/MasoodahGeorge/p3img/blob/main/20240704_061513.jpg?raw=true",
                 "name": "Anushqa Kandan",
                 "testimonial": "Masoodah is an extremely dedicated worker who always strives to do the best she can. She remains willing to attain new knowledge and works very well in a team. Masoodah has the ability to create a comfortable atmosphere for those around her."
             },
             {
-                "image": "https://i.postimg.cc/0yF2x5jL/Asheeka.jpg",
+                "image": "https://github.com/MasoodahGeorge/p3img/blob/main/20240704_061439.jpg?raw=true",
                 "name": "Asheeka Samuels",
                 "testimonial": "One of Masoodah's strong suits is communication and teamwork. I've had the pleasure of working with Masoodah and what I can say from our interactions is that she is a dedicated and hardworking individual."
             },
             {
-                "image": "https://i.postimg.cc/s2Wf2FZ1/candice.png",
+                "image": "https://github.com/MasoodahGeorge/p3img/blob/main/20240704_061439.jpg?raw=true",
                 "name": "Candice Keet",
                 "testimonial": "In the short amount of time that I got to know Masoodah, I've experienced her kindness, dedication to her coding and how hard she works to perfect what she does. Whenever I would need help and I asked her for help, she would never turn me down and always try to help me to the best of her abilities. I'm always motivated by her dedication towards coding. Not only can she work well in a team but she's a kind, hardworking, and problem-solver and if that's what you're looking for, I most definitely recommend Masoodah."
             },
             {
-                "image": "https://i.postimg.cc/3RCKgg1T/Caitlin.jpg",
+                "image": "https://github.com/MasoodahGeorge/p3img/blob/main/20240704_061425.jpg?raw=true",
                 "name": "Caitlin Dalwai",
                 "testimonial": "Having worked closely with Masoodah at Life Choices Academy, I wholeheartedly recommend her for any role within your esteemed tech company. Masoodah possesses an exceptional blend of technical expertise, innovative thinking, and a strong work ethic that consistently delivers outstanding results. Her ability to grasp complex technical concepts swiftly and apply them effectively in practical scenarios is truly impressive."
             },
             {
-                "image": "https://i.postimg.cc/bYgyr9d0/Naz.png",
+                "image": "https://github.com/MasoodahGeorge/p3img/blob/main/20240704_061530.jpg?raw=true",
                 "name": "Nazneen Abrahams",
                 "testimonial": "Masoodah is a hardworking individual, who exceeds all expectations. Working with Masoodah is an absolute pleasure, she brings a positive atmosphere and motivates those around her."
             }
@@ -85,35 +85,35 @@
     "items": [
       {
         "name": "E-commerce",
-        "image": "https://i.postimg.cc/zBQLN4Dz/Screenshot-2024-07-01-082735.png",
+        "image": "https://github.com/MasoodahGeorge/p3img/blob/main/20240704_073330.png?raw=true",
         "description": "An e-commerce platform built with JavaScript, CSS, and Bootstrap for buying products.",
         "github": "https://github.com/MasoodahGeorge/ecomEOMP.git",
         "view": "https://ecom-eomp.vercel.app/"
       },
       {
         "name": "BMI Calculator",
-        "image": "https://i.postimg.cc/t7QYZPV8/bmi.png",
+        "image": "https://github.com/MasoodahGeorge/p3img/blob/main/20240704_073400.png?raw=true",
         "description": "A BMI calculator built with Javascript and CSS to measure body mass index.",
         "github": "https://github.com/MasoodahGeorge/bmi-calc.git",
         "view": "https://bmi-calc-kohl.vercel.app/"
       },
       {
         "name": "Temperature Converter",
-        "image": "https://i.postimg.cc/RCn1FLks/temp.png",
+        "image": "https://github.com/MasoodahGeorge/p3img/blob/main/20240704_061841.jpg?raw=true",
         "description": "A temperature converter built with Javascript and CSS to convert between Celsius and Fahrenheit.",
         "github": "https://github.com/MasoodahGeorge/temperature-converter.git",
         "view": "https://temperature-converter-iota-eight.vercel.app/"
       },
       {
         "name": "Hex to RGB",
-        "image": "https://i.postimg.cc/0ytKZ6gK/hex.png",
+        "image": "https://github.com/MasoodahGeorge/p3img/blob/main/20240704_061811.jpg?raw=true",
         "description": "A tool built with Javascript and CSS to convert hex color codes to RGB values.",
         "github": "https://github.com/MasoodahGeorge/hex-To-rgb.git",
         "view": "https://hex-to-rgb-omega.vercel.app/"
       },
       {
         "name": "RGB to Hex",
-        "image": "https://i.postimg.cc/gkL64czg/rgb.png",
+        "image": "https://github.com/MasoodahGeorge/p3img/blob/main/20240704_061721.jpg?raw=true",
         "description": "A tool built with Javascript and CSS to convert RGB values to hex color codes.",
         "github": "https://github.com/MasoodahGeorge/RGBtoHex.git",
         "view": "https://rg-bto-hex-eight.vercel.app/"

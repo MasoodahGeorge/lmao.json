@@ -91,6 +91,13 @@
         "view": "https://ecom-eomp.vercel.app/"
       },
       {
+        "name": "To-do List",
+        "image": "https://github.com/MasoodahGeorge/p3img/blob/main/20240705_085147.jpg?raw=true",
+        "description": "A to-do list app built with JavaScript, CSS, and Bootstrap.",
+        "github": "https://github.com/MasoodahGeorge/ToDoListTask.git",
+        "view": "https://to-do-list-task-gamma.vercel.app/"
+      },
+      {
         "name": "BMI Calculator",
         "image": "https://github.com/MasoodahGeorge/p3img/blob/main/20240704_073400.png?raw=true",
         "description": "A BMI calculator built with Javascript and CSS to measure body mass index.",

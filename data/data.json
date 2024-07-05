@@ -3,10 +3,10 @@
         "name": "Masoodah",
         "surname": "George",
         "title": "Aspiring Web Developer",
-        "image": "https://github.com/MasoodahGeorge/p3img/blob/main/mememe2.jpg?raw=true"
+        "image": "https://raw.githubusercontent.com/MasoodahGeorge/p3img/main/mememe2.jpg"
     },
     "about": {
-      "image": "https://github.com/MasoodahGeorge/p3img/blob/main/mememe2.jpg?raw=true",
+      "image": "https://raw.githubusercontent.com/MasoodahGeorge/p3img/main/mememe2.jpg",
         "heading": "About Me",
         "description": "As an aspiring web developer, I'm on a mission to learn, grow, and make my mark in the ever-evolving world of technology. While I may be at the beginning of my journey, I'm committed to soaking up knowledge and mastering everything from HTML and CSS to JavaScript and beyond. I'm excited to embark on this journey of growth and discovery, and I'm ready to make my mark in the world of web development."
     },

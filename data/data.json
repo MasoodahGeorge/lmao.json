@@ -8,20 +8,25 @@
     "about": {
       "image": "https://raw.githubusercontent.com/MasoodahGeorge/p3img/main/mememe2.jpg",
         "heading": "About Me",
-        "description": "As an aspiring web developer, I'm on a mission to learn, grow, and make my mark in the ever-evolving world of technology. While I may be at the beginning of my journey, I'm committed to soaking up knowledge and mastering everything from HTML and CSS to JavaScript and beyond. I'm excited to embark on this journey of growth and discovery, and I'm ready to make my mark in the world of web development."
+        "description": "As a passionate web developer, I am dedicated to continually expanding my skill set in the dynamic world of technology. With a strong foundation in HTML, CSS, and Bootstrap, I have honed my abilities in JavaScript and Vue.js, alongside backend development with Node.js and MySQL. I thrive on creating efficient, user-friendly web applications and am eager to contribute to innovative projects in the web development landscape."
     },
     "resume": {
         "heading": "Resume",
         "timeline": [
             {
-                "title": "High School",
-                "description": "Matriculated from Spine Road High School.",
-                "duration": "2019-2023"
+                "title": "Life Choices Studio",
+                "description": "Further studies at Life Choices Studio and currently exploring internship opportunities",
+                "duration": "September 2024 - Present Day"
             },
             {
                 "title": "Life Choices Academy",
-                "description": "Started at Life Choices, just after finishing High School.",
-                "duration": "2024 - present day"
+                "description": "Started at Life Choices, just after finishing High School and graduated with an average of 80% or higher",
+                "duration": "April 2024 - September 2024"
+            },
+            {
+                "title": "High School",
+                "description": "Matriculated from Spine Road High School with a Baechelor's pass rate.",
+                "duration": "2019-2023"
             }
         ]
     },
@@ -129,6 +134,13 @@
         "description": "A tool built with Javascript and CSS to convert RGB values to hex color codes.",
         "github": "https://github.com/MasoodahGeorge/RGBtoHex.git",
         "view": "https://rg-bto-hex-eight.vercel.app/"
+      },
+      {
+        "name": "Capstone Project",
+        "image": "https://github.com/MasoodahGeorge/p3img/blob/main/20240704_061721.jpg?raw=true",
+        "description": "A full stack E-commerce site, built with Vue.js, a MYSQL database, and styling with Bootstrap and CSS.",
+        "github": "https://github.com/MasoodahGeorge/capstone",
+        "view": "https://masoodah-capstone.web.app"
       }
     ]
     },

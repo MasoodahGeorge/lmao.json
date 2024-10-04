@@ -119,6 +119,13 @@
         "view": "https://bmi-calc-kohl.vercel.app/"
       },
       {
+        "name": "Node Project",
+        "image": "https://github.com/MasoodahGeorge/vuejseomp/blob/main/image%201.png?raw=true",
+        "description": "A collaborative e-commerce platform designed to provide users with a seamless online shopping experience. This project combines mySQL backend functionality with vue as frontend.",
+        "github": "https://github.com/amyj0hn/nodeproject.git",
+        "view": "https://nodeproject-1a345.web.app/"
+      },
+      {
         "name": "Temperature Converter",
         "image": "https://github.com/MasoodahGeorge/p3img/blob/main/20240704_061841.jpg?raw=true",
         "description": "A temperature converter built with Javascript and CSS to convert between Celsius and Fahrenheit.",

@@ -50,7 +50,7 @@
         "image": "https://github.com/MasoodahGeorge/p3img/blob/main/IMG-20240704-WA0000.jpg?raw=true"
       },
       {
-        "name": "Vue.js",
+        "name": "Vue js",
         "image": "https://github.com/MasoodahGeorge/p3img/blob/main/InShot_20240704_061649684-removebg-preview.png?raw=true"
       },
       {
@@ -61,6 +61,10 @@
         "name": "Cloud Practitioning",
         "image": "https://github.com/MasoodahGeorge/p3img/blob/main/aws%20logo.png?raw=true",
         "link": "https://blush-beryl-92.tiiny.site"
+      },
+      {
+        "name": "Node js",
+        "image": "https://github.com/MasoodahGeorge/p3img/blob/main/node.png?raw=true",
       }
     ]
   },
